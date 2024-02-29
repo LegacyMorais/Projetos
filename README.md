@@ -23,15 +23,11 @@ Description: I developed and successfully defended my master's thesis "Identific
 
 Technologies / Tools / Methodologies: List of technologies, programming languages, and tools utilized in the project.
 
-Link: 
-
 ### 2. A Comparative Study of IPsec, WireGuard, and OpenVPN: Evaluating End-to-End Encryption and Site-to-Site VPN Solutions
 
 Description: During my time in Torino, in Erasmus, I conducted a project titled "A Comparative Study of IPsec, WireGuard, and OpenVPN: Evaluating End-to-End Encryption and Site-to-Site VPN Solutions". This endeavor involved both theoretical and practical analyses of each VPN solution, encompassing features, protocols, algorithms, and performance metrics. Practical implementation utilized virtual machines, where I meticulously configured the entire network connections from inception.
 
 Technologies / Tools / Methodologies: Kali Linux, OpenVPN, Wireguard, IPSec, Encryption Algortihms, SSL/TLS, VirtualBox, Bash Scripting
-
-Link: 
 
 ### 3. Bet4Money
 
@@ -40,30 +36,20 @@ delivering a fully functional and engaging gaming experience.
 
 Technologies / Tools / Methodologies: Java, Eclipse, NetBeans, UI/UX, Scrum
 
-Link: 
-
 ### 4. Robochef
 
 Description: As part of a team of four individuals, we collaborated to create a basic simulated factory comprising six stations, each outfitted with sensors and actuators. These sensors were linked to a database, which in turn interfaced with a C application responsible for overseeing all operations.
 
 Technologies / Tools / Methodologies: C, UML, SQL, PostgreSQL, RaspberryPI, Ubuntu, Visual Studio Code, PlatformIO, Scrum
 
-Link: 
-
 ### 5. LED Matrix
 
 Description: In a group of 2, developed an LED Matrix project. It displayed a futsal match score and game time using an Arduino and a DS3231 RTC for timekeeping and non-volatile memory storage. A user interface with four buttons on a breadboard allows for goal signaling and time control during the game. The application was developed in C.
 
-Technologies / Tools / Methodologies: Java, Eclipse, NetBeans, UI/UX, Scrum
+Technologies / Tools / Methodologies: C, Arduino, Visual Studio Code, PlatformIO, Scrum, Embedded Systems
 
-Link: C, Arduino, Visual Studio Code, PlatformIO, Scrum, Embedded Systems
-
-### 6. sc
+### 6. Multiprogramming using an ATMEL Microcontroller
 
 Description: Created small-scale projects employing Arduino, the AVR library, and FreeRTOS, focusing on LED control with diverse techniques. Through these projects, I gained proficiency in managing interruptions, timers, preemption, task control, as well as addressing concepts like Race Conditions and Mutual Exclusion.
 
 Technologies / Tools / Methodologies: C, Arduino, FreeRTOS, AVR, Embedded Systems
-
-Link: 
-
-
