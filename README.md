@@ -1,4 +1,4 @@
-# [Pedro Morais'] Electrical and Computer Engineering Projects
+# Pedro Morais' Electrical and Computer Engineering Projects
 
 Welcome to my GitHub repository showcasing projects related to electrical and computer engineering. Here, you'll find a collection of projects that demonstrate my skills and expertise in various areas of ECE.
 
@@ -10,8 +10,8 @@ I'm passionate about everything that involves technology and its innovations, mo
 
 ## Contact Information
 
-- Email: [pedrocunhamorais@gmail.com]
-- LinkedIn: [(https://www.linkedin.com/in/pedro-morais20/)]
+- Email: pedrocunhamorais@gmail.com
+- LinkedIn: https://www.linkedin.com/in/pedro-morais20
 
 Feel free to reach out to me via email or connect with me on LinkedIn for any inquiries or collaboration opportunities.
 
@@ -19,7 +19,14 @@ Feel free to reach out to me via email or connect with me on LinkedIn for any in
 
 ### 1. Identification of Rail Faults using AI
 
-Description: Brief overview of the project, including its purpose and key features.
+Description: I developed and successfully defended my master's thesis "Identification of Rail Faults
+using AI". Within the scope of the Ferrovia 4.0 project, and in a laboratory environment at
+Digi2Lab, the objective of my work was to develop a functional ML model capable of
+accurately predicting the presence of faults on rails. To achieve this objective, several ML
+models were developed in an attempt to identify the most efficient approach.
+The models developed were Neural Networks, Random Forests, Gradient Boost Machines
+and Support Vector Machines. I also used techniques like PCA and Transfer Learning.
+Among the libraries used are: Tensorflow, Keras, Scikit, NumPy, Pandas and MatPlotLib.
 
 Technologies Used: List of technologies, programming languages, and tools utilized in the project.
 
